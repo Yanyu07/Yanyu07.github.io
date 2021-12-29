@@ -2,4 +2,6 @@
 
 [:carrot:](https://github.com/Yanyu07/Yanyu07.github.io/edit/main/index.md)
 
-个人工作简历
+八股文学习记录
+
+### [Java基础](https://github.com/Yanyu07/Yanyu07.github.io/edit/main/java.md)
